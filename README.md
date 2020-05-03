@@ -1,2 +1,2 @@
 # AudioManager
-Audio Manager Project for Project Future 
+Audio Manager Project for Project Future [https://www.projectfuture.gr/]
